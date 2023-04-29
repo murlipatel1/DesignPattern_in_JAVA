@@ -6,22 +6,22 @@ mvc
 
 
 behavioural: 
-iterartor
-memento
-observer
+iterartor,
+memento,
+observer,
 state
 
 
 creational:
-builder
-abstract factory
-prototype
-factory
+builder,
+abstract factory,
+prototype,
+factory,
 singelton
 
 structural:
-sdapter
-compostie
-decorator
-facade
+adapter,
+compostie,
+decorator,
+facade,
 flyweight
