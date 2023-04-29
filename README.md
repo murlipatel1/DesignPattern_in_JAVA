@@ -21,7 +21,7 @@ singelton
 
 structural:
 adapter,
-compostie,
+composite,
 decorator,
 facade,
 flyweight
